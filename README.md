@@ -29,4 +29,4 @@ python app.py
 
 ## 📸 截图
 
-（可选上传项目截图，展示界面）
+![alt text](image.png)
